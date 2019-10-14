@@ -4,6 +4,7 @@
 
 - Bima Titani - `@bimatitani`; `bimatitani88@gmail.com`
 - Calvin Yoda - `@calvinyonda`; `calvinyonda96@gmail.com`
+- Erlangga Ibrahim - `@wowotek`; `erlanggaibr2@gmail.com`; `erlanggai@dolano.id`
 
 ## Requirements
 
