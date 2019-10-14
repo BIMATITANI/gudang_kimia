@@ -6,6 +6,7 @@
 - Calvin Yoda - `@calvinyonda`; `calvinyonda96@gmail.com`
 - Erlangga Ibrahim - `@wowotek`; `erlanggaibr2@gmail.com`; `erlanggai@dolano.id`
 - Junio
+- Yota
 
 ## Requirements
 
