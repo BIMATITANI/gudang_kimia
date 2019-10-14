@@ -7,6 +7,7 @@
 - Erlangga Ibrahim - `@wowotek`; `erlanggaibr2@gmail.com`; `erlanggai@dolano.id`
 - Junio
 - Hansen
+- Yota
 
 ## Requirements
 
